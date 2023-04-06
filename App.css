@@ -1,0 +1,13 @@
+body{
+  text-align: center;
+  background-color: rgb(148, 201, 201);
+}
+
+#Singers{
+  margin-left: -5%;
+}
+
+#home{
+  margin-left: 6%;
+  color: darkblue;
+}
